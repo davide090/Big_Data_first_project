@@ -1,4 +1,4 @@
-# Big_Data_first_project
+# Big Data first project
 
 
 Repository for the first project of Big Data course at Roma 3 University.
